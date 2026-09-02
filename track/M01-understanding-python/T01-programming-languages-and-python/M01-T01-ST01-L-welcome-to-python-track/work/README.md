@@ -2,26 +2,25 @@
 
 ## My Name
 
-Write your name.
+Akash
 
 ## What I Learned in Foundation Month
+Basic fundamentals of programming
+Writing Psuedo codes
 
-Write at least three things you learned.
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+Huge demand in Market
 
 ## My Career Goal
-
-Write the role you want to achieve.
+Software engineer
 
 ## What I Understood Today
 
 Complete these sentences:
 
-Programming means:
+Programming means:Solving Problems
 
 Python is:
 
-In this track, I will learn:
